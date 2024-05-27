@@ -1,2 +1,2 @@
 # bcdef
-My new and last malware
+C++ GDI trojan by red-wipet
